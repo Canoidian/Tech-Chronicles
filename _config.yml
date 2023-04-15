@@ -16,4 +16,4 @@ nav:
   - title: About
     url: /about/
 
-remote_theme: jekyll-whiteglass
+theme: hacker

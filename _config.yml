@@ -1,0 +1,19 @@
+# Site settings
+title: Tech Chronicles
+description: Your source for tech, AI, and web development
+url: "https://yourwebsite.com"
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
+
+remote_theme: jekyll-whiteglass
